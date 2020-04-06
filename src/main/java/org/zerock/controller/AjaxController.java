@@ -6,7 +6,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-//GetServer Uri가 get 타입으로 요청되면  초를  텍스트로   응답하는 컨드롤러
+//GetServer Uri가 get 타입으로 요청되면  초를  텍스트로   응답하는 컨드롤러  (gitHub사용 )
 
 @Controller
 public class AjaxController {
